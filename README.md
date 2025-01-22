@@ -41,6 +41,9 @@ with the `.json` generated from `clr2json` (but all you have to do is run `./upd
 ## Baby
 <img src='./SVG/Baby.svg' style='width: 100%;'>
 
+## Balancing Act
+<img src='./SVG/Balancing Act.svg' style='width: 100%;'>
+
 ## Black Red Gray
 <img src='./SVG/Black Red Gray.svg' style='width: 100%;'>
 
@@ -77,6 +80,9 @@ with the `.json` generated from `clr2json` (but all you have to do is run `./upd
 ## Seafoam Green
 <img src='./SVG/Seafoam Green.svg' style='width: 100%;'>
 
+## Show Star
+<img src='./SVG/Show Star.svg' style='width: 100%;'>
+
 ## Stanford
 <img src='./SVG/Stanford.svg' style='width: 100%;'>
 
@@ -97,6 +103,9 @@ with the `.json` generated from `clr2json` (but all you have to do is run `./upd
 
 ## Viridis 6
 <img src='./SVG/Viridis 6.svg' style='width: 100%;'>
+
+## Wellspring
+<img src='./SVG/Wellspring.svg' style='width: 100%;'>
 
 ## Wentworth
 <img src='./SVG/Wentworth.svg' style='width: 100%;'>

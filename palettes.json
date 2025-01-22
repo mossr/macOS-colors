@@ -73,6 +73,34 @@
       ]
     },
     {
+      "Balancing Act" : [
+        {
+          "Burnished Lilac" : "#c6aaaf"
+        },
+        {
+          "Lotus" : "#e3c1be"
+        },
+        {
+          "Muted Clay" : "#d2927d"
+        },
+        {
+          "Dried Moss" : "#cdb97c"
+        },
+        {
+          "Very Peri" : "#6868ac"
+        },
+        {
+          "Granite Green" : "#85a094"
+        },
+        {
+          "Hawthorn Rose" : "#884b5d"
+        },
+        {
+          "Elderberry" : "#a0838e"
+        }
+      ]
+    },
+    {
       "Black Red Gray" : [
         {
           "Dark Grayish Magenta Pink" : "#0b090a"
@@ -469,6 +497,34 @@
       ]
     },
     {
+      "Show Star" : [
+        {
+          "Anthracite" : "#29282d"
+        },
+        {
+          "Volcanic Glass" : "#625c60"
+        },
+        {
+          "Deep Taupe" : "#7d6461"
+        },
+        {
+          "Plaza Taupe" : "#aea392"
+        },
+        {
+          "White Sand" : "#dcd3ce"
+        },
+        {
+          "Petrified Oak" : "#8d7960"
+        },
+        {
+          "Cloud Dancer" : "#f1ede8"
+        },
+        {
+          "Very Peri" : "#6868ac"
+        }
+      ]
+    },
+    {
       "Stanford" : [
         {
           "Cardinal Red" : "#8c1515"
@@ -844,6 +900,34 @@
         },
         {
           "Light Yellow" : "#fde725"
+        }
+      ]
+    },
+    {
+      "Wellspring" : [
+        {
+          "Greenbriar" : "#48996b"
+        },
+        {
+          "Foliage" : "#769e51"
+        },
+        {
+          "Treetop" : "#456a30"
+        },
+        {
+          "Celery" : "#cfbd53"
+        },
+        {
+          "Chai Tea" : "#b3842e"
+        },
+        {
+          "Dewberry" : "#8a5796"
+        },
+        {
+          "Very Peri" : "#6868ac"
+        },
+        {
+          "Eggshell Blue" : "#a1c8c9"
         }
       ]
     },

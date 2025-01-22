@@ -12,3 +12,6 @@ clrdir="Colors"
 rm -rf $clrdir
 mkdir $clrdir
 cp ~/Library/Colors/*.clr $clrdir
+
+# Add changes (if any) to be committed
+git add Colors SVG README.md palettes.json

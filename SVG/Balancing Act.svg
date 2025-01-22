@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+        viewBox="0 0 150 20.0"
+        width="150mm" height="20.0mm"
+        style="width:100%; height:auto;"
+        shape-rendering="crispEdges" stroke="none">
+    <defs>
+        <style>
+            div {
+                text-anchor: middle;
+                font-size: 2.25px;
+                font-weight: 500;
+                font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+                fill: currentColor;
+            }
+            .header {
+                font-size: 5px;
+                text-anchor: start;
+                font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+                font-weight: bold;
+                fill: currentColor;
+            }
+            .container {
+                width: 100%;
+                height: 100%;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                padding: 2px;
+                box-sizing: border-box;
+            }
+            .w {
+                color: #fff !important;
+            }
+        </style>
+    </defs>
+
+    <rect x="0.0" y="0.0" width="15" height="20" fill="#c6aaaf" />
+    <foreignObject x="0.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;">Burnished Lilac</div>
+            <div style="text-align: center;">#C6AAAF</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="15.0" y="0.0" width="15" height="20" fill="#e3c1be" />
+    <foreignObject x="15.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;">Lotus</div>
+            <div style="text-align: center;">#E3C1BE</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="30.0" y="0.0" width="15" height="20" fill="#d2927d" />
+    <foreignObject x="30.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;">Muted Clay</div>
+            <div style="text-align: center;">#D2927D</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="45.0" y="0.0" width="15" height="20" fill="#cdb97c" />
+    <foreignObject x="45.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;">Dried Moss</div>
+            <div style="text-align: center;">#CDB97C</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="60.0" y="0.0" width="15" height="20" fill="#6868ac" />
+    <foreignObject x="60.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;" class="w">Very Peri</div>
+            <div style="text-align: center;" class="w">#6868AC</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="75.0" y="0.0" width="15" height="20" fill="#85a094" />
+    <foreignObject x="75.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;">Granite Green</div>
+            <div style="text-align: center;">#85A094</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="90.0" y="0.0" width="15" height="20" fill="#884b5d" />
+    <foreignObject x="90.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;" class="w">Hawthorn Rose</div>
+            <div style="text-align: center;" class="w">#884B5D</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="105.0" y="0.0" width="15" height="20" fill="#a0838e" />
+    <foreignObject x="105.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;" class="w">Elderberry</div>
+            <div style="text-align: center;" class="w">#A0838E</div>
+        </div>
+    </foreignObject>        
+</svg>
