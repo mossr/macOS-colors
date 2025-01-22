@@ -1,6 +1,8 @@
 <!-- GENERATED FILE, DO NOT EDIT DIRECTLY. SEE `readme.jl` -->
 # macOS `.clr` files 
-Store custom macOS `~/Library/Colors/*.clr` files. To create your own, fork this repo and run:
+Store custom macOS `~/Library/Colors/*.clr` files used in the [System Color Picker](https://github.com/sindresorhus/System-Color-Picker).
+
+To create your own, fork this repo and run:
 ```sh
 ./update.sh
 ```
@@ -28,7 +30,7 @@ This `README.md` file and the `.svg` palette files were generated using
 ```sh
 julia readme.jl palettes.json
 ```
-with the `.json` generated from `clr2json`
+with the `.json` generated from `clr2json` (but all you have to do is run `./update.sh`)
 
 ## Apple Logo
 <img src='./SVG/Apple Logo.svg'>
