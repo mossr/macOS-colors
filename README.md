@@ -77,6 +77,9 @@ with the `.json` generated from `clr2json` (but all you have to do is run `./upd
 ## Moss
 <img src='./SVG/Moss.svg' style='width: 100%;'>
 
+## Relaxed Elegance
+<img src='./SVG/Relaxed Elegance.svg' style='width: 100%;'>
+
 ## Seafoam Green
 <img src='./SVG/Seafoam Green.svg' style='width: 100%;'>
 
