@@ -157,7 +157,7 @@ function readme(jsonpath::String; svgdir="SVG")
 		for palette in palettes
 			name = get_palette_name(palette)
 			write(f, "## $name\n")
-			write(f, "<img src='./$svgdir/$name.svg'>\n\n")
+			write(f, "<img src='./$svgdir/$name.svg' style='width: 100%;'>\n\n")
 		end
 	end
     @info "Finished writing README.md"

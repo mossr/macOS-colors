@@ -33,71 +33,71 @@ julia readme.jl palettes.json
 with the `.json` generated from `clr2json` (but all you have to do is run `./update.sh`)
 
 ## Apple Logo
-<img src='./SVG/Apple Logo.svg'>
+<img src='./SVG/Apple Logo.svg' style='width: 100%;'>
 
 ## Army Green
-<img src='./SVG/Army Green.svg'>
+<img src='./SVG/Army Green.svg' style='width: 100%;'>
 
 ## Baby
-<img src='./SVG/Baby.svg'>
+<img src='./SVG/Baby.svg' style='width: 100%;'>
 
 ## Black Red Gray
-<img src='./SVG/Black Red Gray.svg'>
+<img src='./SVG/Black Red Gray.svg' style='width: 100%;'>
 
 ## Cobolt
-<img src='./SVG/Cobolt.svg'>
+<img src='./SVG/Cobolt.svg' style='width: 100%;'>
 
 ## Dawn
-<img src='./SVG/Dawn.svg'>
+<img src='./SVG/Dawn.svg' style='width: 100%;'>
 
 ## Emerald
-<img src='./SVG/Emerald.svg'>
+<img src='./SVG/Emerald.svg' style='width: 100%;'>
 
 ## Green Black
-<img src='./SVG/Green Black.svg'>
+<img src='./SVG/Green Black.svg' style='width: 100%;'>
 
 ## Julia
-<img src='./SVG/Julia.svg'>
+<img src='./SVG/Julia.svg' style='width: 100%;'>
 
 ## LaTeX
-<img src='./SVG/LaTeX.svg'>
+<img src='./SVG/LaTeX.svg' style='width: 100%;'>
 
 ## MIT
-<img src='./SVG/MIT.svg'>
+<img src='./SVG/MIT.svg' style='width: 100%;'>
 
 ## MIT Lincoln Laboratory
-<img src='./SVG/MIT Lincoln Laboratory.svg'>
+<img src='./SVG/MIT Lincoln Laboratory.svg' style='width: 100%;'>
 
 ## MIT Sloan
-<img src='./SVG/MIT Sloan.svg'>
+<img src='./SVG/MIT Sloan.svg' style='width: 100%;'>
 
 ## Moss
-<img src='./SVG/Moss.svg'>
+<img src='./SVG/Moss.svg' style='width: 100%;'>
 
 ## Seafoam Green
-<img src='./SVG/Seafoam Green.svg'>
+<img src='./SVG/Seafoam Green.svg' style='width: 100%;'>
 
 ## Stanford
-<img src='./SVG/Stanford.svg'>
+<img src='./SVG/Stanford.svg' style='width: 100%;'>
 
 ## Stanford Blacks
-<img src='./SVG/Stanford Blacks.svg'>
+<img src='./SVG/Stanford Blacks.svg' style='width: 100%;'>
 
 ## Stanford Web
-<img src='./SVG/Stanford Web.svg'>
+<img src='./SVG/Stanford Web.svg' style='width: 100%;'>
 
 ## Sun
-<img src='./SVG/Sun.svg'>
+<img src='./SVG/Sun.svg' style='width: 100%;'>
 
 ## Tufte
-<img src='./SVG/Tufte.svg'>
+<img src='./SVG/Tufte.svg' style='width: 100%;'>
 
 ## Viridis 25
-<img src='./SVG/Viridis 25.svg'>
+<img src='./SVG/Viridis 25.svg' style='width: 100%;'>
 
 ## Viridis 6
-<img src='./SVG/Viridis 6.svg'>
+<img src='./SVG/Viridis 6.svg' style='width: 100%;'>
 
 ## Wentworth
-<img src='./SVG/Wentworth.svg'>
+<img src='./SVG/Wentworth.svg' style='width: 100%;'>
 
