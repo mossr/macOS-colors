@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+        viewBox="0 0 150 20.0"
+        width="150mm" height="20.0mm"
+        style="width:100%; height:auto;"
+        shape-rendering="crispEdges" stroke="none">
+    <defs>
+        <style>
+            div {
+                text-anchor: middle;
+                font-size: 2.25px;
+                font-weight: 500;
+                font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+                fill: currentColor;
+            }
+            .header {
+                font-size: 5px;
+                text-anchor: start;
+                font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+                font-weight: bold;
+                fill: currentColor;
+            }
+            .container {
+                width: 100%;
+                height: 100%;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                padding: 2px;
+                box-sizing: border-box;
+            }
+            .w {
+                color: #fff !important;
+            }
+        </style>
+    </defs>
+
+    <rect x="0.0" y="0.0" width="15" height="20" fill="#ffbdbb" />
+    <foreignObject x="0.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;">Melon</div>
+            <div style="text-align: center;">#FFBDBB</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="15.0" y="0.0" width="15" height="20" fill="#ffddb4" />
+    <foreignObject x="15.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;">Sunset</div>
+            <div style="text-align: center;">#FFDDB4</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="30.0" y="0.0" width="15" height="20" fill="#fdfdc3" />
+    <foreignObject x="30.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;">Cream</div>
+            <div style="text-align: center;">#FDFDC3</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="45.0" y="0.0" width="15" height="20" fill="#d3fdca" />
+    <foreignObject x="45.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;">Tea Green</div>
+            <div style="text-align: center;">#D3FDCA</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="60.0" y="0.0" width="15" height="20" fill="#a9f7ff" />
+    <foreignObject x="60.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;">Electric Blue</div>
+            <div style="text-align: center;">#A9F7FF</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="75.0" y="0.0" width="15" height="20" fill="#afd0ff" />
+    <foreignObject x="75.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;">Jordy Blue</div>
+            <div style="text-align: center;">#AFD0FF</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="90.0" y="0.0" width="15" height="20" fill="#c9c2ff" />
+    <foreignObject x="90.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;">Periwinkle</div>
+            <div style="text-align: center;">#C9C2FF</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="105.0" y="0.0" width="15" height="20" fill="#ffd3ff" />
+    <foreignObject x="105.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;">Mauve</div>
+            <div style="text-align: center;">#FFD3FF</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="120.0" y="0.0" width="15" height="20" fill="#fffffd" />
+    <foreignObject x="120.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;">Baby Powder</div>
+            <div style="text-align: center;">#FFFFFD</div>
+        </div>
+    </foreignObject>        
+</svg>

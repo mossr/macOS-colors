@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+        viewBox="0 0 150 20.0"
+        width="150mm" height="20.0mm"
+        style="width:100%; height:auto;"
+        shape-rendering="crispEdges" stroke="none">
+    <defs>
+        <style>
+            div {
+                text-anchor: middle;
+                font-size: 2.25px;
+                font-weight: 500;
+                font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+                fill: currentColor;
+            }
+            .header {
+                font-size: 5px;
+                text-anchor: start;
+                font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+                font-weight: bold;
+                fill: currentColor;
+            }
+            .container {
+                width: 100%;
+                height: 100%;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                padding: 2px;
+                box-sizing: border-box;
+            }
+            .w {
+                color: #fff !important;
+            }
+        </style>
+    </defs>
+
+    <rect x="0.0" y="0.0" width="15" height="20" fill="#0e2438" />
+    <foreignObject x="0.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;" class="w">Rich Black</div>
+            <div style="text-align: center;" class="w">#0E2438</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="15.0" y="0.0" width="15" height="20" fill="#24334c" />
+    <foreignObject x="15.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;" class="w">Oxford Blue</div>
+            <div style="text-align: center;" class="w">#24334C</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="30.0" y="0.0" width="15" height="20" fill="#526e8a" />
+    <foreignObject x="30.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;" class="w">Yinmn Blue</div>
+            <div style="text-align: center;" class="w">#526E8A</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="45.0" y="0.0" width="15" height="20" fill="#899fb8" />
+    <foreignObject x="45.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;">Silver Lake Blue</div>
+            <div style="text-align: center;">#899FB8</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="60.0" y="0.0" width="15" height="20" fill="#e6e7e4" />
+    <foreignObject x="60.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;">Platinum</div>
+            <div style="text-align: center;">#E6E7E4</div>
+        </div>
+    </foreignObject>        
+</svg>

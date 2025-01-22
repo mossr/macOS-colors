@@ -1,0 +1,1035 @@
+{
+  "palettes" : [
+    {
+      "Apple Logo" : [
+        {
+          "Green" : "#5ebd3e"
+        },
+        {
+          "Yellow" : "#ffb900"
+        },
+        {
+          "Orange" : "#f78200"
+        },
+        {
+          "Red" : "#e23838"
+        },
+        {
+          "Purple" : "#973999"
+        },
+        {
+          "Blue" : "#009cdf"
+        }
+      ]
+    },
+    {
+      "Army Green" : [
+        {
+          "Timberwolf" : "#e1ded6"
+        },
+        {
+          "Sage" : "#b2bd9c"
+        },
+        {
+          "Fern Green" : "#6a926a"
+        },
+        {
+          "Hunter Green" : "#496c51"
+        },
+        {
+          "Brunswick Green" : "#436052"
+        }
+      ]
+    },
+    {
+      "Baby" : [
+        {
+          "Melon" : "#ffbdbb"
+        },
+        {
+          "Sunset" : "#ffddb4"
+        },
+        {
+          "Cream" : "#fdfdc3"
+        },
+        {
+          "Tea Green" : "#d3fdca"
+        },
+        {
+          "Electric Blue" : "#a9f7ff"
+        },
+        {
+          "Jordy Blue" : "#afd0ff"
+        },
+        {
+          "Periwinkle" : "#c9c2ff"
+        },
+        {
+          "Mauve" : "#ffd3ff"
+        },
+        {
+          "Baby Powder" : "#fffffd"
+        }
+      ]
+    },
+    {
+      "Black Red Gray" : [
+        {
+          "Dark Grayish Magenta Pink" : "#0b090a"
+        },
+        {
+          "Dark Cyan Blue" : "#161a1d"
+        },
+        {
+          "Dark Red" : "#660708"
+        },
+        {
+          "Dark Red 2" : "#a4161a"
+        },
+        {
+          "Dark Red 3" : "#ba181b"
+        },
+        {
+          "Red" : "#e5383b"
+        },
+        {
+          "Grayish Red" : "#b1a7a6"
+        },
+        {
+          "Gray" : "#d3d3d3"
+        },
+        {
+          "Light Gray" : "#f5f3f4"
+        },
+        {
+          "White" : "#ffffff"
+        }
+      ]
+    },
+    {
+      "Cobolt" : [
+        {
+          "Rich Black" : "#0e2438"
+        },
+        {
+          "Oxford Blue" : "#24334c"
+        },
+        {
+          "Yinmn Blue" : "#526e8a"
+        },
+        {
+          "Silver Lake Blue" : "#899fb8"
+        },
+        {
+          "Platinum" : "#e6e7e4"
+        }
+      ]
+    },
+    {
+      "Dawn" : [
+        {
+          "Rich Black" : "#001d28"
+        },
+        {
+          "Midnight Green" : "#13576c"
+        },
+        {
+          "Air Force Blue" : "#6b95a3"
+        },
+        {
+          "Ash Gray" : "#bbcdbe"
+        },
+        {
+          "Beige" : "#f2f7e6"
+        }
+      ]
+    },
+    {
+      "Emerald" : [
+        {
+          "Lapis Lazuli" : "#2b6b8d"
+        },
+        {
+          "Verdigris" : "#43b1b4"
+        },
+        {
+          "Emerald" : "#65d3a9"
+        },
+        {
+          "Light Green" : "#8feda9"
+        },
+        {
+          "Tea Green" : "#d0f8d5"
+        }
+      ]
+    },
+    {
+      "Green Black" : [
+        {
+          "Nyanza" : "#dff4e3"
+        },
+        {
+          "Celadon" : "#c3e8d1"
+        },
+        {
+          "Celadon 2" : "#a4dbbf"
+        },
+        {
+          "Mint" : "#84cead"
+        },
+        {
+          "Mint 2" : "#61c19a"
+        },
+        {
+          "Sea Green" : "#4ea07f"
+        },
+        {
+          "Dartmouth Green" : "#387c62"
+        },
+        {
+          "Brunswick Green" : "#225441"
+        },
+        {
+          "Dark Green" : "#05251b"
+        }
+      ]
+    },
+    {
+      "Julia" : [
+        {
+          "Julia Blue" : "#4063d8"
+        },
+        {
+          "Julia Green" : "#389826"
+        },
+        {
+          "Julia Purple" : "#9558b2"
+        },
+        {
+          "Julia Red" : "#cb3c33"
+        }
+      ]
+    },
+    {
+      "LaTeX" : [
+        {
+          "Red" : "#ff2600"
+        },
+        {
+          "Green" : "#00f900"
+        },
+        {
+          "Blue" : "#0433ff"
+        },
+        {
+          "Cyan" : "#00b3e1"
+        },
+        {
+          "Magenta" : "#e23290"
+        },
+        {
+          "Yellow" : "#fff000"
+        },
+        {
+          "Black" : "#000000"
+        },
+        {
+          "Gray" : "#929292"
+        },
+        {
+          "White" : "#ffffff"
+        },
+        {
+          "Darkgray" : "#515151"
+        },
+        {
+          "Lightgray" : "#cbcbcb"
+        },
+        {
+          "Brown" : "#cc9151"
+        },
+        {
+          "Lime" : "#cafa00"
+        },
+        {
+          "Olive" : "#9a9320"
+        },
+        {
+          "Orange" : "#ff9300"
+        },
+        {
+          "Pink" : "#ffcccb"
+        },
+        {
+          "Purple" : "#cd2050"
+        },
+        {
+          "Teal" : "#009193"
+        },
+        {
+          "Violet" : "#932192"
+        }
+      ]
+    },
+    {
+      "MIT" : [
+        {
+          "MIT Red" : "#750014"
+        },
+        {
+          "Sliver Gray" : "#8b959e"
+        },
+        {
+          "Bright Red" : "#ff1423"
+        },
+        {
+          "Black" : "#000000"
+        },
+        {
+          "White" : "#ffffff"
+        },
+        {
+          "Dark Pink" : "#750062"
+        },
+        {
+          "Pink" : "#ff14f0"
+        },
+        {
+          "Light Pink" : "#ffb3ff"
+        },
+        {
+          "Dark Purple" : "#3e006b"
+        },
+        {
+          "Purple" : "#9933ff"
+        },
+        {
+          "Light Purple" : "#bfb3ff"
+        },
+        {
+          "Dark Blue" : "#002896"
+        },
+        {
+          "Blue" : "#1966ff"
+        },
+        {
+          "Light Blue" : "#99ebff"
+        },
+        {
+          "Dark Green" : "#004d1a"
+        },
+        {
+          "Green" : "#00ad00"
+        },
+        {
+          "Light Green" : "#aaff33"
+        },
+        {
+          "Yellow" : "#ffeb00"
+        },
+        {
+          "Dark Gray 1" : "#40464c"
+        },
+        {
+          "Dark Gray 2" : "#212326"
+        },
+        {
+          "Dark Silver Gray" : "#626a73"
+        },
+        {
+          "Light Silver Gray" : "#b8c2cc"
+        },
+        {
+          "Light Gray 1" : "#f2f4f8"
+        },
+        {
+          "Light Gray 2" : "#dde1e6"
+        }
+      ]
+    },
+    {
+      "MIT Lincoln Laboratory" : [
+        {
+          "MIT-LL Book Cover" : "#1b3967"
+        },
+        {
+          "MIT-LL Blue" : "#0a2f56"
+        },
+        {
+          "MIT-LL Dark Blue" : "#0b2534"
+        },
+        {
+          "MIT-LL Black" : "#000000"
+        },
+        {
+          "MIT-LL White" : "#ffffff"
+        }
+      ]
+    },
+    {
+      "MIT Sloan" : [
+        {
+          "MIT Sloan Red" : "#a31f34"
+        },
+        {
+          "Silver Gray" : "#8a8b8c"
+        },
+        {
+          "Dark Gray" : "#545759"
+        },
+        {
+          "Light Gray" : "#c9c8c7"
+        },
+        {
+          "Navy" : "#041d40"
+        },
+        {
+          "Blue" : "#00698e"
+        },
+        {
+          "Light Blue" : "#6aa2b8"
+        },
+        {
+          "Dark Green" : "#006b67"
+        },
+        {
+          "Blue Green" : "#4d858d"
+        },
+        {
+          "Dark Gray 2" : "#333d47"
+        },
+        {
+          "Orange" : "#ed7700"
+        },
+        {
+          "Light Orange" : "#f6b221"
+        },
+        {
+          "Light Blue 2" : "#288dc0"
+        },
+        {
+          "Bright Red" : "#ec0044"
+        }
+      ]
+    },
+    {
+      "Moss" : [
+        {
+          "Obsidian Green" : "#014240"
+        },
+        {
+          "Windows Moss" : "#486860"
+        },
+        {
+          "Beamer Dark Blue" : "#3333b2"
+        },
+        {
+          "Beamer Light Blue" : "#7a7acd"
+        },
+        {
+          "Beamer Very Light Blue" : "#bbc1ff"
+        },
+        {
+          "Slack Blue" : "#111a32"
+        },
+        {
+          "Slack Dark Blue" : "#14181d"
+        },
+        {
+          "Slack Gray" : "#1b1d21"
+        },
+        {
+          "Jot Black" : "#2b2b2b"
+        },
+        {
+          "Pluto Dark" : "#1e1e1e"
+        },
+        {
+          "Pluto Light" : "#f9efe0"
+        }
+      ]
+    },
+    {
+      "Seafoam Green" : [
+        {
+          "Ash Gray" : "#d4dad0"
+        },
+        {
+          "Cambridge Blue" : "#95b69e"
+        },
+        {
+          "Hooker's Green" : "#648b82"
+        },
+        {
+          "Dark Slate Gray" : "#446165"
+        },
+        {
+          "Charcoal" : "#3d4f58"
+        }
+      ]
+    },
+    {
+      "Stanford" : [
+        {
+          "Cardinal Red" : "#8c1515"
+        },
+        {
+          "Cardinal Red (Light)" : "#b83a4b"
+        },
+        {
+          "Cardinal Red (Dark)" : "#820000"
+        },
+        {
+          "White" : "#ffffff"
+        },
+        {
+          "Black" : "#2e2d29"
+        },
+        {
+          "Cool Grey" : "#53565a"
+        },
+        {
+          "Palo Alto" : "#175e54"
+        },
+        {
+          "Palo Alto (Light)" : "#2d716f"
+        },
+        {
+          "Palo Alto (Dark)" : "#014240"
+        },
+        {
+          "Palo Verde" : "#279989"
+        },
+        {
+          "Palo Verde (Light)" : "#59b3a9"
+        },
+        {
+          "Palo Verde (Dark)" : "#017e7c"
+        },
+        {
+          "Olive" : "#8f993e"
+        },
+        {
+          "Olive (Light)" : "#a6b168"
+        },
+        {
+          "Olive (Dark)" : "#7a863b"
+        },
+        {
+          "Bay" : "#6fa287"
+        },
+        {
+          "Bay (Light)" : "#8ab8a7"
+        },
+        {
+          "Bay (Dark)" : "#417865"
+        },
+        {
+          "Sky" : "#4298b5"
+        },
+        {
+          "Sky (Light)" : "#67afd2"
+        },
+        {
+          "Sky (Dark)" : "#016895"
+        },
+        {
+          "Lagunita" : "#007c92"
+        },
+        {
+          "Lagunita (Light)" : "#009ab4"
+        },
+        {
+          "Lagunita (Dark)" : "#006b81"
+        },
+        {
+          "Poppy" : "#e98300"
+        },
+        {
+          "Poppy (Light)" : "#f9a44a"
+        },
+        {
+          "Poppy (Dark)" : "#d1660f"
+        },
+        {
+          "Spirited" : "#e04f39"
+        },
+        {
+          "Spirited (Light)" : "#f4795b"
+        },
+        {
+          "Spirited (Dark)" : "#c74632"
+        },
+        {
+          "Illuminating" : "#fedd5c"
+        },
+        {
+          "Illuminating (Light)" : "#ffe781"
+        },
+        {
+          "Illuminating (Dark)" : "#fec51d"
+        },
+        {
+          "Plum" : "#620059"
+        },
+        {
+          "Plum (Light)" : "#734675"
+        },
+        {
+          "Plum (Dark)" : "#350d36"
+        },
+        {
+          "Brick" : "#651c32"
+        },
+        {
+          "Brick (Light)" : "#7f2d48"
+        },
+        {
+          "Brick (Dark)" : "#42081b"
+        },
+        {
+          "Archway" : "#5d4b3c"
+        },
+        {
+          "Archway (Light)" : "#766253"
+        },
+        {
+          "Archway (Dark)" : "#2f2424"
+        },
+        {
+          "Stone" : "#7f7776"
+        },
+        {
+          "Stone (Light)" : "#d4d1d1"
+        },
+        {
+          "Stone (Dark)" : "#544948"
+        },
+        {
+          "Fog" : "#dad7cb"
+        },
+        {
+          "Fog (Light)" : "#f4f4f4"
+        },
+        {
+          "Fog (Dark)" : "#b6b1a9"
+        }
+      ]
+    },
+    {
+      "Stanford Blacks" : [
+        {
+          "100% Black" : "#2e2d29"
+        },
+        {
+          "90% Black" : "#43423e"
+        },
+        {
+          "80% Black" : "#585754"
+        },
+        {
+          "70% Black" : "#6d6c69"
+        },
+        {
+          "60% Black" : "#767674"
+        },
+        {
+          "50% Black" : "#979694"
+        },
+        {
+          "40% Black" : "#ababa9"
+        },
+        {
+          "30% Black" : "#c0c0bf"
+        },
+        {
+          "20% Black" : "#d5d5d4"
+        },
+        {
+          "10% Black" : "#eaeaea"
+        }
+      ]
+    },
+    {
+      "Stanford Web" : [
+        {
+          "Digital Red" : "#b1040e"
+        },
+        {
+          "Digital Red (Light)" : "#e50808"
+        },
+        {
+          "Digital Red (Dark)" : "#820000"
+        },
+        {
+          "Digital Blue" : "#006cb8"
+        },
+        {
+          "Digital Blue (Light)" : "#6fc3ff"
+        },
+        {
+          "Digital Blue (Dark)" : "#00548f"
+        },
+        {
+          "Digital Green" : "#008566"
+        },
+        {
+          "Digital Green (Light)" : "#1aecba"
+        },
+        {
+          "Digital Green (Dark)" : "#006f54"
+        }
+      ]
+    },
+    {
+      "Sun" : [
+        {
+          "Dark Blue" : "#03071e"
+        },
+        {
+          "Dark Pink" : "#370617"
+        },
+        {
+          "Dark Pink Red" : "#6a040f"
+        },
+        {
+          "Dark Red" : "#9d0208"
+        },
+        {
+          "Dark Red 2" : "#d00000"
+        },
+        {
+          "Dark Red Orange" : "#dc2f02"
+        },
+        {
+          "Brown" : "#e85d04"
+        },
+        {
+          "Orange" : "#f48c06"
+        },
+        {
+          "Orange 2" : "#faa307"
+        },
+        {
+          "Vibrant Yellow Orange" : "#ffba08"
+        }
+      ]
+    },
+    {
+      "Tufte" : [
+        {
+          "Pastel Magenta" : "#ff48cf"
+        },
+        {
+          "Pastel Purple" : "#8770fe"
+        },
+        {
+          "Pastel Blue" : "#0072b2"
+        },
+        {
+          "Pastel Sky Blue" : "#56b4e9"
+        },
+        {
+          "Pastel Electric Blue" : "#0072fe"
+        },
+        {
+          "Pastel Electric Blue-White" : "#80b9ff"
+        },
+        {
+          "Pastel Green" : "#009e73"
+        },
+        {
+          "Pastel Orange" : "#e69f00"
+        },
+        {
+          "Pastel Red" : "#f5615c"
+        }
+      ]
+    },
+    {
+      "Viridis 25" : [
+        {
+          "Dark Magenta" : "#440154"
+        },
+        {
+          "Dark Purple" : "#471164"
+        },
+        {
+          "Dark Purple 2" : "#481f70"
+        },
+        {
+          "Dark Purple 3" : "#472d7b"
+        },
+        {
+          "Dark Purple 4" : "#443a83"
+        },
+        {
+          "Dark Blue" : "#404688"
+        },
+        {
+          "Dark Blue 2" : "#3b528b"
+        },
+        {
+          "Dark Cyan Blue" : "#365d8d"
+        },
+        {
+          "Cyan Blue" : "#31688e"
+        },
+        {
+          "Cyan Blue 2" : "#2c728e"
+        },
+        {
+          "Cyan" : "#287c8e"
+        },
+        {
+          "Cyan 2" : "#24868e"
+        },
+        {
+          "Cyan 3" : "#21908c"
+        },
+        {
+          "Cyan 4" : "#1f9a8a"
+        },
+        {
+          "Blue Green" : "#20a486"
+        },
+        {
+          "Blue Green 2" : "#27ad81"
+        },
+        {
+          "Blue Green 3" : "#35b779"
+        },
+        {
+          "Green" : "#47c16e"
+        },
+        {
+          "Green 2" : "#5dc863"
+        },
+        {
+          "Green 3" : "#75d054"
+        },
+        {
+          "Green 4" : "#8fd744"
+        },
+        {
+          "Yellow Green" : "#aadc32"
+        },
+        {
+          "Yellow Green 2" : "#c7e020"
+        },
+        {
+          "Yellow Green 3" : "#e3e418"
+        },
+        {
+          "Light Yellow" : "#fde725"
+        }
+      ]
+    },
+    {
+      "Viridis 6" : [
+        {
+          "Dark Magenta" : "#440154"
+        },
+        {
+          "Dark Blue" : "#414487"
+        },
+        {
+          "Cyan" : "#2a788e"
+        },
+        {
+          "Blue Green" : "#22a884"
+        },
+        {
+          "Green" : "#7ad151"
+        },
+        {
+          "Light Yellow" : "#fde725"
+        }
+      ]
+    },
+    {
+      "Wentworth" : [
+        {
+          "Wentworth Gold -2" : "#fdb71e"
+        },
+        {
+          "Wentworth Gold -1" : "#ffc414"
+        },
+        {
+          "Wentworth Gold" : "#ffd300"
+        },
+        {
+          "Wentworth Gold +1" : "#ffdf00"
+        },
+        {
+          "Wentworth Gold +2" : "#ffe800"
+        },
+        {
+          "Official Black -2" : "#1b1e21"
+        },
+        {
+          "Official Black -1" : "#2f2a2b"
+        },
+        {
+          "Official Black" : "#000000"
+        },
+        {
+          "Official Black +1" : "#373d42"
+        },
+        {
+          "Official Black +2" : "#2f2a2b"
+        },
+        {
+          "Wentworth Red -2" : "#ab2923"
+        },
+        {
+          "Wentworth Red -1" : "#cd332b"
+        },
+        {
+          "Wentworth Red" : "#e33a31"
+        },
+        {
+          "Wentworth Red +1" : "#ed3d34"
+        },
+        {
+          "Wentworth Red +2" : "#e77e7c"
+        },
+        {
+          "Sapphire Blue -2" : "#004c6a"
+        },
+        {
+          "Sapphire Blue -1" : "#3c5788"
+        },
+        {
+          "Sapphire Blue" : "#4867a0"
+        },
+        {
+          "Sapphire Blue +1" : "#0883b2"
+        },
+        {
+          "Sapphire Blue +2" : "#6f90c9"
+        },
+        {
+          "Emerald Green -2" : "#436065"
+        },
+        {
+          "Emerald Green -1" : "#597f83"
+        },
+        {
+          "Emerald Green" : "#6a969b"
+        },
+        {
+          "Emerald Green +1" : "#79abb1"
+        },
+        {
+          "Emerald Green +2" : "#99d6de"
+        },
+        {
+          "Old Gold -2" : "#93781d"
+        },
+        {
+          "Old Gold -1" : "#b19025"
+        },
+        {
+          "Old Gold" : "#c7a42c"
+        },
+        {
+          "Old Gold +1" : "#dab431"
+        },
+        {
+          "Old Gold +2" : "#ecc335"
+        },
+        {
+          "Platinum -2" : "#797878"
+        },
+        {
+          "Platinum -1" : "#a9a8a8"
+        },
+        {
+          "Platinum" : "#edebeb"
+        },
+        {
+          "Platinum +1" : "#e2e0e0"
+        },
+        {
+          "Platinum +2" : "#f7f5f5"
+        },
+        {
+          "Red Accent -2" : "#682522"
+        },
+        {
+          "Red Accent -1" : "#a7413c"
+        },
+        {
+          "Red Accent" : "#de5953"
+        },
+        {
+          "Red Accent +1" : "#c8504a"
+        },
+        {
+          "Red Accent +2" : "#e85e57"
+        },
+        {
+          "Blue Accent -2" : "#014865"
+        },
+        {
+          "Blue Accent -1" : "#00648b"
+        },
+        {
+          "Blue Accent" : "#005c7e"
+        },
+        {
+          "Blue Accent +1" : "#0090c5"
+        },
+        {
+          "Blue Accent +2" : "#00b8f9"
+        },
+        {
+          "Teal Accent -2" : "#627e81"
+        },
+        {
+          "Teal Accent -1" : "#7ea1a5"
+        },
+        {
+          "Teal Accent" : "#90b7bc"
+        },
+        {
+          "Teal Accent +1" : "#99c1c6"
+        },
+        {
+          "Teal Accent +2" : "#c8eaf2"
+        },
+        {
+          "Neutral Dark -2" : "#2c3942"
+        },
+        {
+          "Neutral Dark -1" : "#35434e"
+        },
+        {
+          "Neutral Dark" : "#2a3640"
+        },
+        {
+          "Neutral Dark +1" : "#637d90"
+        },
+        {
+          "Neutral Dark +2" : "#8daec9"
+        },
+        {
+          "Neutral Light -2" : "#757981"
+        },
+        {
+          "Neutral Light -1" : "#aab1bb"
+        },
+        {
+          "Neutral Light" : "#dce4f1"
+        },
+        {
+          "Neutral Light +1" : "#c8d0dc"
+        },
+        {
+          "Neutral Light +2" : "#e4edfb"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1"
+        viewBox="0 0 150 40.0"
+        width="150mm" height="40.0mm"
+        style="width:100%; height:auto;"
+        shape-rendering="crispEdges" stroke="none">
+    <defs>
+        <style>
+            div {
+                text-anchor: middle;
+                font-size: 2.25px;
+                font-weight: 500;
+                font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+                fill: currentColor;
+            }
+            .header {
+                font-size: 5px;
+                text-anchor: start;
+                font-family: Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+                font-weight: bold;
+                fill: currentColor;
+            }
+            .container {
+                width: 100%;
+                height: 100%;
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+                padding: 2px;
+                box-sizing: border-box;
+            }
+            .w {
+                color: #fff !important;
+            }
+        </style>
+    </defs>
+
+    <rect x="0.0" y="0.0" width="15" height="20" fill="#014240" />
+    <foreignObject x="0.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;" class="w">Obsidian Green</div>
+            <div style="text-align: center;" class="w">#014240</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="15.0" y="0.0" width="15" height="20" fill="#486860" />
+    <foreignObject x="15.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;" class="w">Windows Moss</div>
+            <div style="text-align: center;" class="w">#486860</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="30.0" y="0.0" width="15" height="20" fill="#3333b2" />
+    <foreignObject x="30.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;" class="w">Beamer Dark Blue</div>
+            <div style="text-align: center;" class="w">#3333B2</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="45.0" y="0.0" width="15" height="20" fill="#7a7acd" />
+    <foreignObject x="45.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;" class="w">Beamer Light Blue</div>
+            <div style="text-align: center;" class="w">#7A7ACD</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="60.0" y="0.0" width="15" height="20" fill="#bbc1ff" />
+    <foreignObject x="60.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;">Beamer Very Light Blue</div>
+            <div style="text-align: center;">#BBC1FF</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="75.0" y="0.0" width="15" height="20" fill="#111a32" />
+    <foreignObject x="75.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;" class="w">Slack Blue</div>
+            <div style="text-align: center;" class="w">#111A32</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="90.0" y="0.0" width="15" height="20" fill="#14181d" />
+    <foreignObject x="90.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;" class="w">Slack Dark Blue</div>
+            <div style="text-align: center;" class="w">#14181D</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="105.0" y="0.0" width="15" height="20" fill="#1b1d21" />
+    <foreignObject x="105.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;" class="w">Slack Gray</div>
+            <div style="text-align: center;" class="w">#1B1D21</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="120.0" y="0.0" width="15" height="20" fill="#2b2b2b" />
+    <foreignObject x="120.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;" class="w">Jot Black</div>
+            <div style="text-align: center;" class="w">#2B2B2B</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="135.0" y="0.0" width="15" height="20" fill="#1e1e1e" />
+    <foreignObject x="135.0" y="0.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;" class="w">Pluto Dark</div>
+            <div style="text-align: center;" class="w">#1E1E1E</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="0.0" y="20.0" width="15" height="20" fill="#f9efe0" />
+    <foreignObject x="0.0" y="20.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;">Pluto Light</div>
+            <div style="text-align: center;">#F9EFE0</div>
+        </div>
+    </foreignObject>        
+</svg>
