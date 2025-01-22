@@ -31,71 +31,71 @@ julia readme.jl palettes.json
 with the `.json` generated from `clr2json`
 
 ## Apple Logo
-<img src='./svg/Apple Logo.svg'>
+<img src='./SVG/Apple Logo.svg'>
 
 ## Army Green
-<img src='./svg/Army Green.svg'>
+<img src='./SVG/Army Green.svg'>
 
 ## Baby
-<img src='./svg/Baby.svg'>
+<img src='./SVG/Baby.svg'>
 
 ## Black Red Gray
-<img src='./svg/Black Red Gray.svg'>
+<img src='./SVG/Black Red Gray.svg'>
 
 ## Cobolt
-<img src='./svg/Cobolt.svg'>
+<img src='./SVG/Cobolt.svg'>
 
 ## Dawn
-<img src='./svg/Dawn.svg'>
+<img src='./SVG/Dawn.svg'>
 
 ## Emerald
-<img src='./svg/Emerald.svg'>
+<img src='./SVG/Emerald.svg'>
 
 ## Green Black
-<img src='./svg/Green Black.svg'>
+<img src='./SVG/Green Black.svg'>
 
 ## Julia
-<img src='./svg/Julia.svg'>
+<img src='./SVG/Julia.svg'>
 
 ## LaTeX
-<img src='./svg/LaTeX.svg'>
+<img src='./SVG/LaTeX.svg'>
 
 ## MIT
-<img src='./svg/MIT.svg'>
+<img src='./SVG/MIT.svg'>
 
 ## MIT Lincoln Laboratory
-<img src='./svg/MIT Lincoln Laboratory.svg'>
+<img src='./SVG/MIT Lincoln Laboratory.svg'>
 
 ## MIT Sloan
-<img src='./svg/MIT Sloan.svg'>
+<img src='./SVG/MIT Sloan.svg'>
 
 ## Moss
-<img src='./svg/Moss.svg'>
+<img src='./SVG/Moss.svg'>
 
 ## Seafoam Green
-<img src='./svg/Seafoam Green.svg'>
+<img src='./SVG/Seafoam Green.svg'>
 
 ## Stanford
-<img src='./svg/Stanford.svg'>
+<img src='./SVG/Stanford.svg'>
 
 ## Stanford Blacks
-<img src='./svg/Stanford Blacks.svg'>
+<img src='./SVG/Stanford Blacks.svg'>
 
 ## Stanford Web
-<img src='./svg/Stanford Web.svg'>
+<img src='./SVG/Stanford Web.svg'>
 
 ## Sun
-<img src='./svg/Sun.svg'>
+<img src='./SVG/Sun.svg'>
 
 ## Tufte
-<img src='./svg/Tufte.svg'>
+<img src='./SVG/Tufte.svg'>
 
 ## Viridis 25
-<img src='./svg/Viridis 25.svg'>
+<img src='./SVG/Viridis 25.svg'>
 
 ## Viridis 6
-<img src='./svg/Viridis 6.svg'>
+<img src='./SVG/Viridis 6.svg'>
 
 ## Wentworth
-<img src='./svg/Wentworth.svg'>
+<img src='./SVG/Wentworth.svg'>
 
