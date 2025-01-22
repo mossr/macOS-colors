@@ -116,7 +116,7 @@ end
 README = """
 <!-- GENERATED FILE, DO NOT EDIT DIRECTLY. SEE `readme.jl` -->
 # macOS `.clr` files 
-Store custom macOS `~/Library/Colors/*.clr` files used in the [System Color Picker](https://github.com/sindresorhus/System-Color-Picker).
+Store custom macOS `~/Library/Colors/*.clr` files used in [System Color Picker](https://github.com/sindresorhus/System-Color-Picker).
 
 To create your own, fork this repo and run:
 ```sh
