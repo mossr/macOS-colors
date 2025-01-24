@@ -458,6 +458,9 @@
           "Beamer Very Light Blue" : "#bbc1ff"
         },
         {
+          "Xwing Blue" : "#006cff"
+        },
+        {
           "Slack Blue" : "#111a32"
         },
         {
@@ -474,9 +477,6 @@
         },
         {
           "Pluto Light" : "#f9efe0"
-        },
-        {
-          "Xwing Blue" : "#006cff"
         }
       ]
     },
