@@ -121,4 +121,12 @@
             <div style="text-align: center;">#F9EFE0</div>
         </div>
     </foreignObject>        
+
+    <rect x="15.0" y="20.0" width="15" height="20" fill="#006cff" />
+    <foreignObject x="15.0" y="20.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;" class="w">Xwing Blue</div>
+            <div style="text-align: center;" class="w">#006CFF</div>
+        </div>
+    </foreignObject>        
 </svg>
