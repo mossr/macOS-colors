@@ -21,22 +21,41 @@ git commit -m "$(
   git diff --cached --name-status Colors \
     | awk -F'\t' '
       {
-        # Remove path from file
-        sub(/^.*\//, "", $2);
-        # Remove .clr extension
-        sub(/\.clr$/, "", $2);
-        if($1=="A") { added = (added ? added ", " : "") $2 }
-        if($1=="M") { updated = (updated ? updated ", " : "") $2 }
-        if($1=="D") { deleted = (deleted ? deleted ", " : "") $2 }
+        # If the first column starts with "R", it’s a rename (e.g. "R100")
+        if ($1 ~ /^R[0-9]*/) {
+          status = "R"
+          newfile = $3
+          sub(/^.*\//, "", newfile) # filename only
+          sub(/\.clr$/, "", newfile) # remove .clr ext
+        } else {
+          status = $1
+        }
+
+        file = $2
+        sub(/^.*\//, "", file) # filename only
+        sub(/\.clr$/, "", file) # remove .clr ext
+
+        # Sort files into arrays/strings by status
+        if (status == "M") {
+          updated = (updated ? updated ", " : "") file
+        } else if (status == "A") {
+          added = (added ? added ", " : "") file
+        } else if (status == "D") {
+          deleted = (deleted ? deleted ", " : "") file
+        } else if (status == "R") {
+          renamed = (renamed ? renamed ", " : "") file " -> " newfile
+        }
       }
       END {
-        msg="";
-        if(updated) msg=msg "Updated [" updated "] ";
-        if(added) msg=msg "Added [" added "] ";
-        if(deleted) msg=msg "Deleted [" deleted "] ";
-        # Strip trailing space
-        sub(/[[:space:]]+$/, "", msg);
-        print msg;
+        msg = ""
+        if (updated) { msg = msg "Updated [" updated "] " }
+        if (added)   { msg = msg "Added [" added "] " }
+        if (deleted) { msg = msg "Deleted [" deleted "] " }
+        if (renamed) { msg = msg "Renamed [" renamed "] " }
+
+        # Trim trailing space
+        sub(/[[:space:]]+$/, "", msg)
+        print msg
       }
     '
 )"
