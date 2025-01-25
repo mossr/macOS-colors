@@ -77,6 +77,9 @@ with the `.json` generated from `clr2json` (but all you have to do is run `./upd
 ## Moss
 <img src='./SVG/Moss.svg' style='width: 100%;'>
 
+## Reachability
+<img src='./SVG/Reachability.svg' style='width: 100%;'>
+
 ## Relaxed Elegance
 <img src='./SVG/Relaxed Elegance.svg' style='width: 100%;'>
 
@@ -106,6 +109,9 @@ with the `.json` generated from `clr2json` (but all you have to do is run `./upd
 
 ## Viridis 6
 <img src='./SVG/Viridis 6.svg' style='width: 100%;'>
+
+## Viridis Clamped
+<img src='./SVG/Viridis Clamped.svg' style='width: 100%;'>
 
 ## Wellspring
 <img src='./SVG/Wellspring.svg' style='width: 100%;'>
