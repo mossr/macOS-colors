@@ -129,4 +129,20 @@
             <div style="text-align: center;">#F9EFE0</div>
         </div>
     </foreignObject>        
+
+    <rect x="30.0" y="20.0" width="15" height="20" fill="#007662" />
+    <foreignObject x="30.0" y="20.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;" class="w">BSV Success</div>
+            <div style="text-align: center;" class="w">#007662</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="45.0" y="20.0" width="15" height="20" fill="#8c1515" />
+    <foreignObject x="45.0" y="20.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;" class="w">BSV Failure</div>
+            <div style="text-align: center;" class="w">#8C1515</div>
+        </div>
+    </foreignObject>        
 </svg>

@@ -477,6 +477,12 @@
         },
         {
           "Pluto Light" : "#f9efe0"
+        },
+        {
+          "BSV Success" : "#007662"
+        },
+        {
+          "BSV Failure" : "#8c1515"
         }
       ]
     },
