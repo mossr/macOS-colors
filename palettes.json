@@ -223,6 +223,34 @@
       ]
     },
     {
+      "Highway DOT" : [
+        {
+          "Regulatory" : "#af1e2d"
+        },
+        {
+          "Warning" : "#fcd116"
+        },
+        {
+          "Guide" : "#006b54"
+        },
+        {
+          "Servies" : "#003f87"
+        },
+        {
+          "Construction" : "#dd7500"
+        },
+        {
+          "Recreation" : "#603311"
+        },
+        {
+          "School Zone" : "#bad80a"
+        },
+        {
+          "Bike Lane" : "#60dd49"
+        }
+      ]
+    },
+    {
       "Julia" : [
         {
           "Julia Blue" : "#4063d8"

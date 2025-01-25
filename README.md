@@ -59,6 +59,9 @@ with the `.json` generated from `clr2json` (but all you have to do is run `./upd
 ## Green Black
 <img src='./SVG/Green Black.svg' style='width: 100%;'>
 
+## Highway DOT
+<img src='./SVG/Highway DOT.svg' style='width: 100%;'>
+
 ## Julia
 <img src='./SVG/Julia.svg' style='width: 100%;'>
 
