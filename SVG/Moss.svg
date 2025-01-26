@@ -145,4 +145,28 @@
             <div style="text-align: center;" class="w">#8C1515</div>
         </div>
     </foreignObject>        
+
+    <rect x="60.0" y="20.0" width="15" height="20" fill="#f5f4ee" />
+    <foreignObject x="60.0" y="20.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;">The Economist Plot</div>
+            <div style="text-align: center;">#F5F4EE</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="75.0" y="20.0" width="15" height="20" fill="#bcbaad" />
+    <foreignObject x="75.0" y="20.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;">The Economist Gray</div>
+            <div style="text-align: center;">#BCBAAD</div>
+        </div>
+    </foreignObject>        
+
+    <rect x="90.0" y="20.0" width="15" height="20" fill="#e90507" />
+    <foreignObject x="90.0" y="20.0" width="15" height="20">
+        <div xmlns="http://www.w3.org/1999/xhtml" class="container">
+            <div style="text-align: center;" class="w">The Economist Red</div>
+            <div style="text-align: center;" class="w">#E90507</div>
+        </div>
+    </foreignObject>        
 </svg>

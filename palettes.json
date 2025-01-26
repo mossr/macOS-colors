@@ -511,6 +511,15 @@
         },
         {
           "BSV Failure" : "#8c1515"
+        },
+        {
+          "The Economist Plot" : "#f5f4ee"
+        },
+        {
+          "The Economist Gray" : "#bcbaad"
+        },
+        {
+          "The Economist Red" : "#e90507"
         }
       ]
     },
