@@ -520,6 +520,12 @@
         },
         {
           "The Economist Red" : "#e90507"
+        },
+        {
+          "Newpaper Light" : "#f2f2f2"
+        },
+        {
+          "Newpaper Dark" : "#0d0d0d"
         }
       ]
     },
