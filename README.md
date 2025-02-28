@@ -116,6 +116,9 @@ with the `.json` generated from `clr2json` (but all you have to do is run `./upd
 ## Viridis Clamped
 <img src='./SVG/Viridis Clamped.svg' style='width: 100%;'>
 
+## Walter Mitty
+<img src='./SVG/Walter Mitty.svg' style='width: 100%;'>
+
 ## Wellspring
 <img src='./SVG/Wellspring.svg' style='width: 100%;'>
 
